@@ -82,6 +82,7 @@ namespace Business_Classes
 
     public class ScoreAndLives
     {
+        //Hello
         private int points = 0;
         private int lives = 2;
 
